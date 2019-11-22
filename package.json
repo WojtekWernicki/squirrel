@@ -1,0 +1,16 @@
+{
+  "name": "squirrel",
+  "version": "0.1.0",
+  "description": "My personal boilerplate for static page projects",
+  "main": "index.js",
+  "repository": "git@github.com:WojtekWernicki/squirrel.git",
+  "author": "Wojciech Wernicki <wernickiwojtek@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.0"
+  }
+}

@@ -1,0 +1,10 @@
+@mixin header-and-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #000000;
+  color: #ffffff;
+  // margin: 1rem 1rem 2rem 1rem; // use it for bigger resolutions
+  padding: 1rem;
+  border-radius: 5px;
+}

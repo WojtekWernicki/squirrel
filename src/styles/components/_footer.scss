@@ -1,0 +1,7 @@
+@import 'mixins';
+
+footer {
+  @include header-and-footer;
+  margin-top: 1rem;
+  justify-content: center;
+}
